@@ -2,4 +2,4 @@
  Este é o meu primeiro projeto onde coloco em prática um pouco do que aprendi, onde avalio, exploro, inspeciono e manipulo dados, no qual selecionei um conjunto de dados fictício que contém informações sobre clientes de uma instituição bancária.
      Para que fique a par deste projeto, irei te informar os dados presentes no Dataset:
      
- ## [![Link do Projeto](https://img.shields.io/badge/Acesse%20o%20Lab%20na%20Plataforma-E94D5F?style=for-the-badge)](https://www.kaggle.com/code/abreugabriel/analisando-dados-de-cr-dito/edit/run/193799889)
+ Link do Projeto documentado: https://www.kaggle.com/code/abreugabriel/analisando-dados-de-cr-dito/edit/run/193799889
